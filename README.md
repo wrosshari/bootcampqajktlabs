@@ -1,6 +1,7 @@
 # Repository Tugas Bootcamp QA JakartaLabs Batch 8
 
-repo ini berisi tugas tugas selama bootcamp
+repo ini berisi tugas tugas selama bootcamp : 
+- basic java
 
 ## Tugas 1
 
