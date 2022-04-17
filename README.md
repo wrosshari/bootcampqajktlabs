@@ -1,4 +1,4 @@
-# Foobar
+# Repository Tugas Bootcamp QA JakartaLabs Batch 8
 
 Foobar is a Python library for dealing with word pluralization.
 
