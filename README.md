@@ -42,3 +42,10 @@ Path Tugas : bootcampqajktlabs/tugasbatch08/src/test/java/Tugas5
 
 Tugas ini tentang :
 - Membuat api test register menggunakan faker di kolakproject
+
+## Tugas 5
+```bash
+Path Tugas : bootcampqajktlabs/Tugas7.jmx
+```
+Tugas ini tentang :
+- Menempilkan log error untuk field id, email, first name dan last name dari url https://reqres.in/api/users/2
