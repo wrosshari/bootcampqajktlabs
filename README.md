@@ -1,6 +1,6 @@
 # Repository Tugas Bootcamp QA JakartaLabs Batch 8
 
-repo ini berisi tugas tugas selama bootcamp JakartaLabs Batch 08. Yang harus disiapkan agar bisa menjalankan test yang ada di repo ini : 
+Repo ini berisi tugas tugas selama bootcamp JakartaLabs Batch 08. Yang harus disiapkan agar bisa menjalankan test yang ada di repo ini : 
 - java 8
 - eclipse (maven + testng)
 - jmeter
