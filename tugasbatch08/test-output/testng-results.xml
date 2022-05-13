@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11179" started-at="2022-05-13T12:03:26Z" finished-at="2022-05-13T12:03:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11179" started-at="2022-05-13T12:03:26Z" finished-at="2022-05-13T12:03:37Z">
+      <class name="Tugas4.Tugas4Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tugas4.Tugas4Test@18ce0030]" name="setUp" is-config="true" duration-ms="7265" started-at="2022-05-13T12:03:26Z" finished-at="2022-05-13T12:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchByKeyword()[pri:0, instance:Tugas4.Tugas4Test@18ce0030]" name="searchByKeyword" duration-ms="3196" started-at="2022-05-13T12:03:33Z" finished-at="2022-05-13T12:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByKeyword -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Tugas4.Tugas4Test@18ce0030]" name="cleanUp" is-config="true" duration-ms="609" started-at="2022-05-13T12:03:36Z" finished-at="2022-05-13T12:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- Tugas4.Tugas4Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
