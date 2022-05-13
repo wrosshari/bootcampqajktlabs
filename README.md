@@ -43,7 +43,7 @@ Path Tugas : bootcampqajktlabs/tugasbatch08/src/test/java/Tugas5
 Tugas ini tentang :
 - Membuat api test register menggunakan faker di kolakproject
 
-## Tugas 5
+## Tugas 7
 ```bash
 Path Tugas : bootcampqajktlabs/Tugas7.jmx
 ```
