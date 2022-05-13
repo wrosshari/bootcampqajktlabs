@@ -9,33 +9,36 @@ repo ini berisi tugas tugas selama bootcamp JakartaLabs Batch 08. Yang harus dis
 ```bash
 Path Tugas : tugasbatch08/src/main/java/com/javaprogram/Tugas1.java
 ```
-
 Tugas ini tentang :
-- Tree map dan membuat Tree set yang dimana isinya minimal 3 anggota
-
-```bash
-pip install foobar
-```
+- Tree map dan membuat Tree set yang dimana isinya minimal 3 anggota.
 
 ## Tugas 2
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+Path Tugas : tugasbatch08/src/main/java/com/javaprogram/Tugas2Runner.java
 ```
+Tugas ini tentang :
+- Membuat kalkulator sederhana yang bisa melakukan operasi pertambahan, pengurangan, perkalian dan pembagian dengan 2 inputan.
 
 ## Tugas 3
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```bash
+Path Tugas : bootcampqajktlabs/tugasbatch08/src/test/java/Tugas3
+```
 
-Please make sure to update tests as appropriate.
+Tugas ini tentang :
+- Web Test dengan page factory
 
 ## Tugas 4
-[MIT](https://choosealicense.com/licenses/mit/)
+```bash
+Path Tugas : bootcampqajktlabs/tugasbatch08/src/test/java/Tugas4
+```
+
+Tugas ini tentang :
+- Membuat web test switch iframe di yop.mail.com
+
+## Tugas 5
+```bash
+Path Tugas : bootcampqajktlabs/tugasbatch08/src/test/java/Tugas5
+```
+
+Tugas ini tentang :
+- Membuat api test register menggunakan faker di kolakproject
