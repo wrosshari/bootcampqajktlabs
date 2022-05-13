@@ -1,11 +1,17 @@
 # Repository Tugas Bootcamp QA JakartaLabs Batch 8
 
-repo ini berisi tugas tugas selama bootcamp : 
-- basic java
+repo ini berisi tugas tugas selama bootcamp JakartaLabs Batch 08. Yang harus disiapkan agar bisa menjalankan test yang ada di repo ini : 
+- java 8
+- eclipse (maven + testng)
+- jmeter
 
 ## Tugas 1
+```bash
+Path Tugas : tugasbatch08/src/main/java/com/javaprogram/Tugas1.java
+```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Tugas ini tentang :
+- Tree map dan membuat Tree set yang dimana isinya minimal 3 anggota
 
 ```bash
 pip install foobar
